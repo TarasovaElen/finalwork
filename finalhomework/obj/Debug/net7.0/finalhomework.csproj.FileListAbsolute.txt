@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\bin\Debug\net7.0\finalhomework.exe
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\bin\Debug\net7.0\finalhomework.deps.json
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\bin\Debug\net7.0\finalhomework.runtimeconfig.json
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\bin\Debug\net7.0\finalhomework.dll
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\bin\Debug\net7.0\finalhomework.pdb
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.AssemblyInfo.cs
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.dll
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\refint\finalhomework.dll
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.pdb
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\finalhomework.genruntimeconfig.cache
+C:\Users\Елена\Desktop\HomeWork\finalwork\finalhomework\obj\Debug\net7.0\ref\finalhomework.dll
