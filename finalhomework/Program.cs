@@ -37,3 +37,9 @@ int CountLessThan(string[] input, int n)
 
     return count;
 }
+//клиентский код
+string[] AskArray() 
+{
+    Console.Write("Введите значения через пробел: ");
+    return Console.ReadLine().Split(" ");
+}
